@@ -1,2 +1,2 @@
 # ruspy
-Script language
+A script language
